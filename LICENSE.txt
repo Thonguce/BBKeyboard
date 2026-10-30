@@ -1,0 +1,16 @@
+BBKeyboard
+Copyright (c) 2026 ThongUCE <Thonguce@gmail.com>. All rights reserved.
+
+GIẤY PHÉP SỬ DỤNG (phần mềm miễn phí)
+
+1. Bạn được tải, cài đặt và sử dụng BBKeyboard miễn phí, cho mục đích cá nhân hoặc công việc,
+   trên bao nhiêu thiết bị tuỳ ý.
+2. Bạn được chia sẻ lại nguyên vẹn file APK chính thức kèm thông tin bản quyền này.
+3. Không được bán, cho thuê, gắn quảng cáo, sửa đổi rồi phát hành lại, hoặc phát hành dưới tên
+   khác khi chưa có sự đồng ý bằng văn bản của tác giả.
+4. Phần mềm được cung cấp "như hiện có", không kèm bất kỳ bảo đảm nào. Tác giả không chịu trách
+   nhiệm về thiệt hại phát sinh từ việc sử dụng phần mềm.
+5. Dữ liệu ngôn ngữ đi kèm có giấy phép riêng, xem THIRD_PARTY_NOTICES.md.
+
+BBKeyboard là dự án độc lập, không liên kết với BlackBerry Limited. BlackBerry là nhãn hiệu
+của chủ sở hữu tương ứng.
